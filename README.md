@@ -7,10 +7,12 @@ The interactive Sales Department Dashboard summarises sales performance across n
 Food department is the highest revenue generator, contributing over £3.99 million in total sales.
 Clothing & Footwear follows with approximately £1.77 million, while Homeware records significantly lower sales at £60,559.
 This highlights an opportunity to reassess inventory, pricing strategies and promotions in the Homeware department.
-B. Store-Wise Sales Performance
+
+🎯 Store-Wise Sales Performance
 Glasgow outperforms all other stores, generating the highest sales.
 Other stores such as Edinburgh and Aberdeen also show strong performance, while Inverness and Stirling have lower sales, suggesting potential issues with demand in those locations.
-C. Impact of Promotions on Sales
+
+🎯 Impact of Promotions on Sales
 Promotional activities significantly boost sales, with over £5.1 million generated under promotions compared to £1.46 million without promotions.
 This reinforces the importance of strategically timed promotions to maximise revenue.
 
