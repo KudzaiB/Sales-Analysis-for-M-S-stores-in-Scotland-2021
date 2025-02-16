@@ -3,7 +3,7 @@ This analysis aims to show how data analytics offers more in depth understanding
 ✅Key Insights from the Sales Dashboard
 The interactive Sales Department Dashboard summarises sales performance across nine M&S stores in Scotland for the period 01/01/21 to 31/03/21. Key findings include:
 
-A. Total Sales Performance by Department
+🎯 Total Sales Performance by Department
 Food department is the highest revenue generator, contributing over £3.99 million in total sales.
 Clothing & Footwear follows with approximately £1.77 million, while Homeware records significantly lower sales at £60,559.
 This highlights an opportunity to reassess inventory, pricing strategies and promotions in the Homeware department.
